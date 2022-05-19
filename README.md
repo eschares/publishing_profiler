@@ -17,3 +17,5 @@ Look at OA status of publications
 
 Presented as website, launched in [Streamlit](www.streamlit.com)
 (https://share.streamlit.io/eschares/publishing_profiler/main/publishing_profiler.py)
+
+Note: may take a minute or two to load if the site hasn't been used in a while, Streamlit puts it "to sleep" after a week of inactvity to save resources.
