@@ -16,3 +16,4 @@ Makes set of plots
 Look at OA status of publications
 
 Presented as website, launched in [Streamlit](www.streamlit.com)
+(https://share.streamlit.io/eschares/publishing_profiler/main/publishing_profiler.py)
